@@ -91,6 +91,3 @@ For true TinyML deployment, I quantized the weights to 8-bit integers (`INT8`). 
 </p>
 
 ---
-
-## 💡 Key Takeaways
-This project successfully demonstrates the entire MLOps workflow for edge devices. By leveraging Spectral Analysis to process raw accelerometer data before NN classification, I was able to build a highly accurate model that requires less than `2 KB` of RAM to execute—proving that you do not need heavy hardware or massive datasets to build responsive, context-aware AI.
