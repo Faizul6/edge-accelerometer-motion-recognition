@@ -81,7 +81,7 @@ For true TinyML deployment, I quantized the weights to 8-bit integers (`INT8`). 
   <img src="images/int8-quantized-results.png" width="700">
 </p>
 
-**The Edge AI Profiling:** Using Edge Impulse's EON™ Compiler, the final optimized model has an incredibly tiny footprint, making it perfectly suited for extreme edge microcontrollers (like ARM Cortex-M0/M4 chips):
+**The Edge AI Profiling:** Using Edge Impulse's EON™ Compiler, the final optimized model has an incredibly tiny footprint, making it perfectly suited for edge microcontrollers (like ARM Cortex-M0/M4 chips):
 * **Inferencing Time:** 1 ms
 * **Peak RAM Usage:** 1.4 KB
 * **Flash Usage:** 15.1 KB
